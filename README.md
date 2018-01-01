@@ -1,5 +1,6 @@
 # hello-world
-## Initial Repository
+
+## My Initial Repository
   + Just an initial repository, getting used to using _git_ and **github** more regularly.
 
 ### Markdown Style Guide I Like to Use:
@@ -10,3 +11,5 @@
 
 ### Commit Message Style Guide I Like to Use:
   + https://udacity.github.io/git-styleguide/
+
+###### Thank you for reading
