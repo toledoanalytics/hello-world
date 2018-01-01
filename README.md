@@ -1,6 +1,12 @@
 # hello-world
-Just an initial repository, getting used to using git and github more regularly.
+## Initial Repository
+  + Just an initial repository, getting used to using _git_ and **github** more regularly.
 
-More details to follow.
+### Markdown Style Guide I Like to Use:
+  + https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-Here, I'm just going to say that the hummus I had, just now, was delicious.
+### README Style Guide I Like to Use:
+  + https://github.com/infochimps-labs/style_guide/blob/master/style-guide-for-readme-files.md
+
+### Commit Message Style Guide I Like to Use:
+  + https://udacity.github.io/git-styleguide/
