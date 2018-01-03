@@ -1,4 +1,4 @@
-# hello-world
+# hello-world-README
 
 ## My Initial Repository
   + Just an initial repository, getting used to using _git_ and **github** more regularly.
